@@ -1,0 +1,16 @@
+/*
+Color Palete
+#222831
+#393E46
+#00ADB5
+#EEEEEE
+*/
+body {font-family: 'ABeeZee', sans-serif; padding-left: 20%; padding-right: 20%; padding-bottom: 5%; background: #00ADB5;}
+h1 {text-decoration: underline;}
+a {color: #00ADB5}
+.btn {width: 50%; background: #00ADB5; border: 1px solid black;}
+.btn:hover {box-shadow: 0px 0px 10px #393E46; background: #00ADB5; border: 1px solid #00ADB5;}
+.global-container {background-color: #222831;}
+.vl {border-left: 2px solid grey;height: 100px;float: left; margin-left: 15%; margin-right: 17.5%;}
+.navbar-brand {font-size: 200%; transform: translatex(25%); margin-top: 1%;}
+.card-title {margin-top: 2%;}

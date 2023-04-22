@@ -1,0 +1,47 @@
+/*
+Color Palete
+#222831
+#393E46
+#00ADB5
+#EEEEEE
+*/
+
+body {background: #f6f6f6;overflow-x: hidden;font-family: 'ABeeZee', sans-serif;}
+
+nav {background: #696969;}
+
+.search-form {width: 60%;}
+.navbar {background: #00ADB5;}
+#sidebar {padding: 0.5%; position: fixed;top: 0;bottom: 0;left: 0;z-index: 9999;box-shadow: 0px 0px 5px black; background: #222831}
+
+.vertical-nav {margin-top: 10%;}
+
+.logo {max-height: 30px; max-width: 30px; margin-left: 5%;}
+
+#profileAccount {font-size: 75%; color: grey; margin-top: -7%;}
+
+hr {margin-top: -1%; margin-bottom: -1%; border-top: 1px solid rgba(246, 246, 246, 1);}
+
+.maincontent {margin-top: 6.5%; margin-left: 15%;}
+
+.maincard {width: 84.5vw; margin-bottom: 2%;}
+
+.persinf {color: #696969; text-decoration: none;}
+
+.formgrid {text-align: center; border-bottom: 1px solid black; padding: 0.5%;}
+
+.container {padding: 2%;}
+
+.sendvalues {width: 20%; transform: translateX(200%);}
+
+#logoutb {margin-left:-5%;}
+
+#profilecontainer {margin-right: 1%;}
+
+.smaller {font-size: 50%; color: gray; text-decoration: none;}
+
+.table-plain tbody tr, .table-plain tbody tr:hover, .table-plain tbody td {
+    background-color:transparent;
+    border:none;
+}
+.surveyViewBorder {border-left: black thin solid;}
