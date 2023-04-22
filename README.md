@@ -1,5 +1,7 @@
 # MyOwnMoodle
 
+I've designed this moodle just to learn and improve my PHP skills. Also controls the user sesions.
+
 ## License
 
 This repository is licensed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) license. This means that you are free to use, share, and modify the code and any derivative works, as long as you give credit to the original creator and share any derivative works under the same license.
